@@ -1,6 +1,55 @@
 [
   {
     "clanName": "EndGameCrusade",
+    "memberUsername": "B00P",
+    "message": "B00P withdrew 1x Abyssal maul.",
+    "timestamp": "2026-01-07T01:44:26.178Z",
+    "messageHash": "e2c23ea454fc83bd2be931e85bb99e8bb025a6a21e7bd6a72db334173c918178"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris",
+    "message": "JupiterSolaris withdrew 1x Exceptional enchantment scroll (brewing).",
+    "timestamp": "2026-01-07T01:38:10.982Z",
+    "messageHash": "6f0e1a7d64181c7b1b1ec1a5eeb939ec810b3c25d49b0c71c1d428e699f431c9"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Poopboy",
+    "message": "Poopboy completed a combat quest!",
+    "timestamp": "2026-01-07T01:31:50.763Z",
+    "messageHash": "530e96c3092fe1c5e156a913e02279d2b77720bf1df1a0ffbc4935b00d44c139"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris2",
+    "message": "JupiterSolaris2 added 1x Exceptional enchantment scroll (plundering).",
+    "timestamp": "2026-01-07T01:11:32.834Z",
+    "messageHash": "63ad06b6dcc23a36fb569c7d7068bedfdffacdad5a9850053073a417bcf76d87"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris2",
+    "message": "JupiterSolaris2 withdrew 1x Exceptional enchantment scroll (foraging).",
+    "timestamp": "2026-01-07T01:11:21.005Z",
+    "messageHash": "70fb7dfd229dd922158107e2d3449d9abe124123ff4bdbb89fd0a50adccac57f"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiteSolaris3",
+    "message": "JupiteSolaris3 added 1x Exceptional enchantment scroll (smithing).",
+    "timestamp": "2026-01-07T01:08:43.198Z",
+    "messageHash": "fc5502fa5b64a119d58e8fd71d31e3ef4c155d368d078d377c8f3f4ec48cb3fb"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiteSolaris3",
+    "message": "JupiteSolaris3 withdrew 1x Exceptional enchantment scroll (enchanting).",
+    "timestamp": "2026-01-07T01:08:30.217Z",
+    "messageHash": "55ee8c2d3c73e609d23e0b8de636ac97a44c758a6fb3380099256ca4bc745596"
+  },
+  {
+    "clanName": "EndGameCrusade",
     "memberUsername": "IgnantGaming",
     "message": "IgnantGaming added 1x Exceptional enchantment scroll (enchanting).",
     "timestamp": "2026-01-07T00:22:41.835Z",

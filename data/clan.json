@@ -1,7 +1,7 @@
 {
   "clanName": "EndGameCrusade",
   "tag": "WHY",
-  "activityScore": 100,
+  "activityScore": 59,
   "minimumTotalLevelRequired": 0,
   "memberlist": [
     {
@@ -89,9 +89,9 @@
   "isRecruiting": true,
   "language": "English",
   "category": "2",
-  "serializedSkills": "{\"Rigour\":130687960.0,\"Strength\":192406880.0,\"Defence\":140923800.0,\"Archery\":101063496.0,\"Magic\":111751944.0,\"Health\":145371700.0,\"Crafting\":84097840.0,\"Woodcutting\":101860690.0,\"Carpentry\":78876160.0,\"Fishing\":98029570.0,\"Cooking\":152989170.0,\"Mining\":101700580.0,\"Smithing\":92713070.0,\"Foraging\":106475410.0,\"Farming\":83758184.0,\"Agility\":81070700.0,\"Plundering\":132917416.0,\"Enchanting\":136536690.0,\"Brewing\":79048190.0,\"Exterminating\":46031030.0}",
+  "serializedSkills": "{\"Rigour\":130692900.0,\"Strength\":192441710.0,\"Defence\":140953150.0,\"Archery\":101175280.0,\"Magic\":111791670.0,\"Health\":145434340.0,\"Crafting\":84097840.0,\"Woodcutting\":101861020.0,\"Carpentry\":78876160.0,\"Fishing\":98030950.0,\"Cooking\":153005140.0,\"Mining\":101700880.0,\"Smithing\":92714480.0,\"Foraging\":106475410.0,\"Farming\":83758410.0,\"Agility\":81089220.0,\"Plundering\":132919400.0,\"Enchanting\":136585950.0,\"Brewing\":79048190.0,\"Exterminating\":46044308.0}",
   "serializedUpgrades": "[37,38,35,31,33,17,21,19,22,23,18,30,32,16,51,20,54,52]",
   "recruitmentMessage": "Discord is a must!\n\nClan events at 9PM EST\u000b\u000binclude a confirm message if both of those work for you",
   "houseId": 5,
-  "lastUpdated": "2026-01-07T01:12:10.043Z"
+  "lastUpdated": "2026-01-07T01:54:46.515Z"
 }
