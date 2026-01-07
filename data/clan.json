@@ -89,9 +89,9 @@
   "isRecruiting": true,
   "language": "English",
   "category": "2",
-  "serializedSkills": "{\"Rigour\":130828400.0,\"Strength\":192722880.0,\"Defence\":141012590.0,\"Archery\":101362140.0,\"Magic\":111839650.0,\"Health\":145572700.0,\"Crafting\":84104900.0,\"Woodcutting\":101962080.0,\"Carpentry\":78911170.0,\"Fishing\":98191464.0,\"Cooking\":153153010.0,\"Mining\":101852440.0,\"Smithing\":92773030.0,\"Foraging\":106476630.0,\"Farming\":83767270.0,\"Agility\":81553380.0,\"Plundering\":133243040.0,\"Enchanting\":136663540.0,\"Brewing\":79354760.0,\"Exterminating\":46094870.0}",
+  "serializedSkills": "{\"Rigour\":130828400.0,\"Strength\":192771540.0,\"Defence\":141012590.0,\"Archery\":101362140.0,\"Magic\":111839650.0,\"Health\":145584800.0,\"Crafting\":84104900.0,\"Woodcutting\":101962080.0,\"Carpentry\":78911170.0,\"Fishing\":98191464.0,\"Cooking\":153161650.0,\"Mining\":101852440.0,\"Smithing\":92773030.0,\"Foraging\":106476630.0,\"Farming\":83770340.0,\"Agility\":81561350.0,\"Plundering\":133243040.0,\"Enchanting\":136664210.0,\"Brewing\":79354760.0,\"Exterminating\":46101660.0}",
   "serializedUpgrades": "[37,38,35,31,33,17,21,19,22,23,18,30,32,16,51,20,54,52]",
   "recruitmentMessage": "Discord is a must!\n\nClan events at 9PM EST\u000b\u000binclude a confirm message if both of those work for you",
   "houseId": 5,
-  "lastUpdated": "2026-01-07T13:04:47.194Z"
+  "lastUpdated": "2026-01-07T13:19:47.274Z"
 }
