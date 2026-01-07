@@ -7,17 +7,17 @@
   {
     "id": 366,
     "name": "exceptional_scroll_of_plundering",
-    "lowestSellPrice": 1336899
+    "lowestSellPrice": 1333333
   },
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1515151
+    "lowestSellPrice": 1515150
   },
   {
     "id": 368,
     "name": "exceptional_scroll_of_mining",
-    "lowestSellPrice": 1389999
+    "lowestSellPrice": 1300000
   },
   {
     "id": 369,
@@ -32,12 +32,12 @@
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1300000
+    "lowestSellPrice": 1260000
   },
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1677774
+    "lowestSellPrice": 1600000
   },
   {
     "id": 373,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 20199999
+    "lowestSellPrice": 19171426
   }
 ]
