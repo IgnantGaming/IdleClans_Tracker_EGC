@@ -123,7 +123,7 @@
       "Sobek": 395,
       "Mesines": 349
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.4,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "phoenix"
   },
@@ -251,7 +251,7 @@
       "Sobek": 18,
       "Mesines": 28
     },
-    "hoursOffline": 6.3,
+    "hoursOffline": 6.5,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "otherworldly_executioner"
   },
@@ -379,7 +379,7 @@
       "Sobek": 401,
       "Mesines": 349
     },
-    "hoursOffline": 10.5,
+    "hoursOffline": 10.8,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "mutated_dragon"
   },
@@ -507,7 +507,7 @@
       "Sobek": 37,
       "Mesines": 105
     },
-    "hoursOffline": 10.6,
+    "hoursOffline": 10.8,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "mutated_dragon"
   },
@@ -635,7 +635,7 @@
       "Sobek": 39,
       "Mesines": 88
     },
-    "hoursOffline": 10.6,
+    "hoursOffline": 10.8,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "phoenix"
   },
@@ -763,7 +763,7 @@
       "Sobek": 41,
       "Mesines": 28
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -891,7 +891,7 @@
       "Sobek": 35,
       "Mesines": 5
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -1019,7 +1019,7 @@
       "Sobek": 48,
       "Mesines": 10
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -1035,13 +1035,13 @@
       "magic": 7626276.60372448,
       "health": 14560557.992322326,
       "crafting": 12372653.609901428,
-      "woodcutting": 9857227.711265802,
+      "woodcutting": 9877825.611839533,
       "carpentry": 6009428.320994377,
       "fishing": 10486274.348228693,
       "cooking": 12495435.02839756,
       "mining": 10108048.926701069,
       "smithing": 7913220.252102971,
-      "foraging": 9138287.280003548,
+      "foraging": 9139475.280003548,
       "farming": 6809035.17956543,
       "agility": 12868579.515514374,
       "plundering": 6513206.400802612,
@@ -1274,7 +1274,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "rock_climbing"
   },
@@ -1401,7 +1401,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "rock_climbing"
   },
@@ -1529,7 +1529,7 @@
       "Sobek": 0,
       "Mesines": 6
     },
-    "hoursOffline": 8.4,
+    "hoursOffline": 8.6,
     "taskTypeOnLogout": 2,
     "taskNameOnLogout": "tuna"
   },
@@ -1657,7 +1657,7 @@
       "Sobek": 27,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "manticore"
   },
@@ -1779,7 +1779,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.4,
     "taskTypeOnLogout": 13,
     "taskNameOnLogout": "ancient_tribe"
   },
@@ -1907,7 +1907,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.8,
+    "hoursOffline": 1.1,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "werewolf"
   },
@@ -2034,7 +2034,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 6.7,
+    "hoursOffline": 7,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "werewolf"
   },
@@ -2051,11 +2051,11 @@
       "health": 4627294.797912598,
       "crafting": 3733525.2048225403,
       "woodcutting": 3983879.879740238,
-      "carpentry": 3257078.1279067993,
-      "fishing": 5019545.291684151,
-      "cooking": 8361584.499795914,
+      "carpentry": 3280201.1279067993,
+      "fishing": 5028155.291684151,
+      "cooking": 8366514.499795914,
       "mining": 9271141.830070496,
-      "smithing": 4991041.103696823,
+      "smithing": 5054232.103696823,
       "foraging": 2722219.0079517365,
       "farming": 2591197.404685974,
       "agility": 2877657.759464264,
@@ -2068,7 +2068,7 @@
       "boots": 839,
       "jewellery": 634,
       "gloves": 871,
-      "legs": 593,
+      "legs": 596,
       "body": 595,
       "leftHand": 392,
       "rightHand": 215,
@@ -2162,9 +2162,9 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
-    "taskTypeOnLogout": 4,
-    "taskNameOnLogout": "yew_plank"
+    "hoursOffline": 0,
+    "taskTypeOnLogout": 2,
+    "taskNameOnLogout": "tuna"
   },
   "xelsol": {
     "username": "xelsol",
@@ -2286,7 +2286,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 3.3,
+    "hoursOffline": 3.5,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "dire_wolf"
   },
@@ -2414,7 +2414,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 1.1,
+    "hoursOffline": 1.4,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "black_dragon"
   },
@@ -2431,8 +2431,8 @@
       "health": 445464.5011355877,
       "crafting": 583498.8994903564,
       "woodcutting": 227169.20033168793,
-      "carpentry": 3739081.1128692627,
-      "fishing": 1332739.4006252289,
+      "carpentry": 3766381.1128692627,
+      "fishing": 1333774.4006252289,
       "cooking": 1433486.8114318848,
       "mining": 1432692.6933326721,
       "smithing": 737026.2007026672,
@@ -2440,7 +2440,7 @@
       "farming": 200828.49982833862,
       "agility": 196752.40006256104,
       "plundering": 176002.19764709473,
-      "enchanting": 2334996,
+      "enchanting": 2360196,
       "brewing": 93688.20050048828,
       "exterminating": 34389.79999923706
     },
@@ -2542,7 +2542,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 4,
     "taskNameOnLogout": "redwood_plank"
   }
