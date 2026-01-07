@@ -123,7 +123,7 @@
       "Sobek": 395,
       "Mesines": 349
     },
-    "hoursOffline": 1.4,
+    "hoursOffline": 1.6,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "phoenix"
   },
@@ -251,7 +251,7 @@
       "Sobek": 18,
       "Mesines": 28
     },
-    "hoursOffline": 7.5,
+    "hoursOffline": 7.8,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "otherworldly_executioner"
   },
@@ -379,7 +379,7 @@
       "Sobek": 401,
       "Mesines": 349
     },
-    "hoursOffline": 11.8,
+    "hoursOffline": 12,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "mutated_dragon"
   },
@@ -507,7 +507,7 @@
       "Sobek": 37,
       "Mesines": 105
     },
-    "hoursOffline": 11.8,
+    "hoursOffline": 12.1,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "mutated_dragon"
   },
@@ -635,7 +635,7 @@
       "Sobek": 39,
       "Mesines": 88
     },
-    "hoursOffline": 11.8,
+    "hoursOffline": 12.1,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "phoenix"
   },
@@ -763,7 +763,7 @@
       "Sobek": 41,
       "Mesines": 28
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -891,7 +891,7 @@
       "Sobek": 35,
       "Mesines": 5
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -1019,7 +1019,7 @@
       "Sobek": 48,
       "Mesines": 10
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -1147,7 +1147,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 1,
     "taskNameOnLogout": "magical"
   },
@@ -1274,7 +1274,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "rock_climbing"
   },
@@ -1401,7 +1401,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "rock_climbing"
   },
@@ -1529,7 +1529,7 @@
       "Sobek": 0,
       "Mesines": 6
     },
-    "hoursOffline": 9.6,
+    "hoursOffline": 9.9,
     "taskTypeOnLogout": 2,
     "taskNameOnLogout": "tuna"
   },
@@ -1541,14 +1541,14 @@
       "attack": 89573090.65817237,
       "strength": 88732322.56165433,
       "defence": 90551019.8954103,
-      "archery": 71353493.77428055,
+      "archery": 71390069.77428055,
       "magic": 95267272.44042635,
-      "health": 108238269.38823092,
+      "health": 108247413.38823092,
       "crafting": 53278169.79376888,
       "woodcutting": 93496562.94237518,
       "carpentry": 35696750.7231164,
       "fishing": 60804682.76465416,
-      "cooking": 136859460.33950996,
+      "cooking": 136865272.83950996,
       "mining": 99532823.73287773,
       "smithing": 89407778.66276932,
       "foraging": 90811733.9336586,
@@ -1557,7 +1557,7 @@
       "plundering": 157905780.1147461,
       "enchanting": 92336893.38183594,
       "brewing": 53880858.44091797,
-      "exterminating": 32914406.59928131
+      "exterminating": 32919466.59928131
     },
     "equipment": {
       "boots": 838,
@@ -1657,7 +1657,7 @@
       "Sobek": 27,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.1,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "centaur"
   },
@@ -1779,7 +1779,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 1.4,
+    "hoursOffline": 1.6,
     "taskTypeOnLogout": 13,
     "taskNameOnLogout": "ancient_tribe"
   },
@@ -1907,7 +1907,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 2.1,
+    "hoursOffline": 2.3,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "werewolf"
   },
@@ -2034,7 +2034,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 8,
+    "hoursOffline": 8.2,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "werewolf"
   },
@@ -2162,7 +2162,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "black_dragon"
   },
@@ -2286,7 +2286,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 4.5,
+    "hoursOffline": 4.8,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "dire_wolf"
   },
@@ -2414,7 +2414,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 2.4,
+    "hoursOffline": 2.6,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "black_dragon"
   },
@@ -2542,7 +2542,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 4,
     "taskNameOnLogout": "redwood_plank"
   }
