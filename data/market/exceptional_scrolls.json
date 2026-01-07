@@ -62,7 +62,7 @@
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1625344
+    "lowestSellPrice": 1625000
   },
   {
     "id": 448,
@@ -87,11 +87,11 @@
   {
     "id": 549,
     "name": "exceptional_scroll_of_cooking",
-    "lowestSellPrice": 1500000
+    "lowestSellPrice": 1525000
   },
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 18740000
+    "lowestSellPrice": 18956000
   }
 ]
