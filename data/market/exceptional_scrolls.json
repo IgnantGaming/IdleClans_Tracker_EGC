@@ -42,7 +42,7 @@
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1340000
+    "lowestSellPrice": 1300000
   },
   {
     "id": 380,
@@ -57,7 +57,7 @@
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 2300000
+    "lowestSellPrice": 2299999
   },
   {
     "id": 447,
