@@ -45,7 +45,7 @@
   "highestBuyPricesWithVolume": [
     {
       "key": 1000001,
-      "value": 4
+      "value": 3
     },
     {
       "key": 1000000,
@@ -85,7 +85,7 @@
     }
   ],
   "averagePrice1Day": 1246973,
-  "averagePrice7Days": 1221446,
+  "averagePrice7Days": 1218576,
   "averagePrice30Days": 1163135,
   "tradeVolume1Day": 10
 }
