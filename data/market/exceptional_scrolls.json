@@ -2,7 +2,7 @@
   {
     "id": 365,
     "name": "exceptional_scroll_of_woodcutting",
-    "lowestSellPrice": 1320000
+    "lowestSellPrice": 1319999
   },
   {
     "id": 366,
@@ -12,7 +12,7 @@
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1360000
+    "lowestSellPrice": 1350000
   },
   {
     "id": 368,
@@ -32,7 +32,7 @@
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1249999
+    "lowestSellPrice": 1250000
   },
   {
     "id": 372,
@@ -42,7 +42,7 @@
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1469998
+    "lowestSellPrice": 1469997
   },
   {
     "id": 380,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 21997000
+    "lowestSellPrice": 21000000
   }
 ]
