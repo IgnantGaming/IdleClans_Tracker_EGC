@@ -2,10 +2,6 @@
   "itemId": 369,
   "lowestSellPricesWithVolume": [
     {
-      "key": 1215506,
-      "value": 1
-    },
-    {
       "key": 1350000,
       "value": 1
     },
@@ -40,12 +36,16 @@
     {
       "key": 1499999,
       "value": 1
+    },
+    {
+      "key": 1515151,
+      "value": 1
     }
   ],
   "highestBuyPricesWithVolume": [
     {
       "key": 1200000,
-      "value": 4
+      "value": 8
     },
     {
       "key": 1000000,
@@ -54,10 +54,6 @@
     {
       "key": 999999,
       "value": 2
-    },
-    {
-      "key": 800000,
-      "value": 5
     },
     {
       "key": 555003,
@@ -72,8 +68,8 @@
       "value": 49
     }
   ],
-  "averagePrice1Day": 1190643,
-  "averagePrice7Days": 1340543,
-  "averagePrice30Days": 1354398,
-  "tradeVolume1Day": 17
+  "averagePrice1Day": 1192715,
+  "averagePrice7Days": 1339280,
+  "averagePrice30Days": 1354129,
+  "tradeVolume1Day": 18
 }
