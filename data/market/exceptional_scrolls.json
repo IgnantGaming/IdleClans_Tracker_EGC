@@ -32,7 +32,7 @@
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1350000
+    "lowestSellPrice": 1348888
   },
   {
     "id": 372,
@@ -57,17 +57,17 @@
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 2308947
+    "lowestSellPrice": 2300000
   },
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1600000
+    "lowestSellPrice": 1599999
   },
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1499000
+    "lowestSellPrice": 1490000
   },
   {
     "id": 449,
@@ -77,12 +77,12 @@
   {
     "id": 450,
     "name": "exceptional_scroll_of_enchanting",
-    "lowestSellPrice": 1397998
+    "lowestSellPrice": 1390000
   },
   {
     "id": 451,
     "name": "exceptional_scroll_of_brewing",
-    "lowestSellPrice": 1374999
+    "lowestSellPrice": 1366666
   },
   {
     "id": 549,
