@@ -123,7 +123,7 @@
       "Sobek": 395,
       "Mesines": 349
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -251,7 +251,7 @@
       "Sobek": 18,
       "Mesines": 28
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -379,7 +379,7 @@
       "Sobek": 401,
       "Mesines": 349
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -507,7 +507,7 @@
       "Sobek": 37,
       "Mesines": 105
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -635,7 +635,7 @@
       "Sobek": 39,
       "Mesines": 88
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -763,7 +763,7 @@
       "Sobek": 41,
       "Mesines": 28
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -891,7 +891,7 @@
       "Sobek": 35,
       "Mesines": 5
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1019,7 +1019,7 @@
       "Sobek": 48,
       "Mesines": 10
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1147,7 +1147,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1274,7 +1274,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1401,7 +1401,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1529,7 +1529,7 @@
       "Sobek": 0,
       "Mesines": 6
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1657,7 +1657,7 @@
       "Sobek": 27,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1779,7 +1779,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -1907,7 +1907,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -2034,7 +2034,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -2162,7 +2162,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 8.5,
+    "hoursOffline": 8.8,
     "taskTypeOnLogout": 3,
     "taskNameOnLogout": "titanium_ore"
   },
@@ -2288,7 +2288,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   },
@@ -2416,7 +2416,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 4.3,
+    "hoursOffline": 4.5,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "fox"
   },
@@ -2544,7 +2544,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0.3,
     "taskTypeOnLogout": 0,
     "taskNameOnLogout": ""
   }
