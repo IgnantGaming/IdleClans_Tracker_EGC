@@ -2,6 +2,10 @@
   "itemId": 369,
   "lowestSellPricesWithVolume": [
     {
+      "key": 1349999,
+      "value": 1
+    },
+    {
       "key": 1350000,
       "value": 5
     },
@@ -35,10 +39,6 @@
     },
     {
       "key": 1515151,
-      "value": 1
-    },
-    {
-      "key": 1699950,
       "value": 1
     }
   ],

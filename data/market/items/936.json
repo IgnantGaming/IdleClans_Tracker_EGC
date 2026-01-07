@@ -10,6 +10,10 @@
       "value": 1
     },
     {
+      "key": 19990000,
+      "value": 2
+    },
+    {
       "key": 20000000,
       "value": 2
     },
@@ -36,17 +40,9 @@
     {
       "key": 22051150,
       "value": 1
-    },
-    {
-      "key": 23987999,
-      "value": 6
     }
   ],
   "highestBuyPricesWithVolume": [
-    {
-      "key": 16559000,
-      "value": 1
-    },
     {
       "key": 16558001,
       "value": 1
@@ -84,8 +80,8 @@
       "value": 12
     }
   ],
-  "averagePrice1Day": 20184564,
-  "averagePrice7Days": 24776144,
-  "averagePrice30Days": 27798471,
-  "tradeVolume1Day": 33
+  "averagePrice1Day": 20071265,
+  "averagePrice7Days": 24745710,
+  "averagePrice30Days": 27787008,
+  "tradeVolume1Day": 34
 }
