@@ -12,12 +12,12 @@
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1399999
+    "lowestSellPrice": 1648997
   },
   {
     "id": 368,
     "name": "exceptional_scroll_of_mining",
-    "lowestSellPrice": 1448950
+    "lowestSellPrice": 1448995
   },
   {
     "id": 369,
@@ -27,12 +27,12 @@
   {
     "id": 370,
     "name": "exceptional_scroll_of_foraging",
-    "lowestSellPrice": 1380000
+    "lowestSellPrice": 1400000
   },
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1450000
+    "lowestSellPrice": 1400000
   },
   {
     "id": 372,
@@ -52,7 +52,7 @@
   {
     "id": 445,
     "name": "exceptional_scroll_of_strength",
-    "lowestSellPrice": 1500000
+    "lowestSellPrice": 1400001
   },
   {
     "id": 446,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 19989000
+    "lowestSellPrice": 20399000
   }
 ]
