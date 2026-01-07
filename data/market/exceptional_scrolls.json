@@ -12,12 +12,12 @@
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1648000
+    "lowestSellPrice": 1647999
   },
   {
     "id": 368,
     "name": "exceptional_scroll_of_mining",
-    "lowestSellPrice": 1400000
+    "lowestSellPrice": 1399999
   },
   {
     "id": 369,
@@ -37,7 +37,7 @@
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1677777
+    "lowestSellPrice": 1677776
   },
   {
     "id": 373,
@@ -47,7 +47,7 @@
   {
     "id": 380,
     "name": "exceptional_scroll_of_rigour",
-    "lowestSellPrice": 1400000
+    "lowestSellPrice": 1399999
   },
   {
     "id": 445,
@@ -62,7 +62,7 @@
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1599999
+    "lowestSellPrice": 1599998
   },
   {
     "id": 448,
@@ -77,7 +77,7 @@
   {
     "id": 450,
     "name": "exceptional_scroll_of_enchanting",
-    "lowestSellPrice": 1390000
+    "lowestSellPrice": 1389999
   },
   {
     "id": 451,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 20300000
+    "lowestSellPrice": 20299999
   }
 ]
