@@ -3,7 +3,7 @@
   "lowestSellPricesWithVolume": [
     {
       "key": 1444998,
-      "value": 2
+      "value": 1
     },
     {
       "key": 1444999,
@@ -43,6 +43,10 @@
     }
   ],
   "highestBuyPricesWithVolume": [
+    {
+      "key": 1350000,
+      "value": 2
+    },
     {
       "key": 999999,
       "value": 2
