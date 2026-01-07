@@ -42,7 +42,7 @@
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1440001
+    "lowestSellPrice": 1450000
   },
   {
     "id": 380,
@@ -52,7 +52,7 @@
   {
     "id": 445,
     "name": "exceptional_scroll_of_strength",
-    "lowestSellPrice": 1499999
+    "lowestSellPrice": 1337057
   },
   {
     "id": 446,
@@ -62,12 +62,12 @@
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1648988
+    "lowestSellPrice": 1625345
   },
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1399997
+    "lowestSellPrice": 1340096
   },
   {
     "id": 449,
