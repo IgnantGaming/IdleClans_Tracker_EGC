@@ -44,12 +44,12 @@
   ],
   "highestBuyPricesWithVolume": [
     {
-      "key": 16556000,
-      "value": 1
+      "key": 16556001,
+      "value": 2
     },
     {
-      "key": 16555001,
-      "value": 2
+      "key": 16556000,
+      "value": 1
     },
     {
       "key": 16555000,
