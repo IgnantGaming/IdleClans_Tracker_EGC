@@ -37,7 +37,7 @@
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1375000
+    "lowestSellPrice": 1390000
   },
   {
     "id": 373,
@@ -82,7 +82,7 @@
   {
     "id": 451,
     "name": "exceptional_scroll_of_brewing",
-    "lowestSellPrice": 1374999
+    "lowestSellPrice": 1350000
   },
   {
     "id": 549,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 18500000
+    "lowestSellPrice": 18740000
   }
 ]
