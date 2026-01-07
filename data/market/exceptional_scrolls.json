@@ -32,12 +32,12 @@
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1260000
+    "lowestSellPrice": 1300000
   },
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1600000
+    "lowestSellPrice": 1677777
   },
   {
     "id": 373,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 19171425
+    "lowestSellPrice": 19170000
   }
 ]
