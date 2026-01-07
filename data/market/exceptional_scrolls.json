@@ -62,12 +62,12 @@
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1300000
+    "lowestSellPrice": 1298000
   },
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1399997
+    "lowestSellPrice": 1395000
   },
   {
     "id": 449,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 20420420
+    "lowestSellPrice": 20399000
   }
 ]
