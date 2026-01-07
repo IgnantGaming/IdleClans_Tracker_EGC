@@ -1,6 +1,13 @@
 [
   {
     "clanName": "EndGameCrusade",
+    "memberUsername": "Elli",
+    "message": "Elli completed a combat quest!",
+    "timestamp": "2026-01-07T10:35:19.377Z",
+    "messageHash": "c14868e041e227db67d650cda42953eebc8431221530e1d5c57a0f39c58f3b8f"
+  },
+  {
+    "clanName": "EndGameCrusade",
     "memberUsername": "Nabudis",
     "message": "Nabudis has started a Crafting event with 1 participant.",
     "timestamp": "2026-01-07T10:00:56.113Z",

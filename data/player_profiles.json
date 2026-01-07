@@ -123,7 +123,7 @@
       "Sobek": 395,
       "Mesines": 349
     },
-    "hoursOffline": 7.4,
+    "hoursOffline": 7.7,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "drake"
   },
@@ -251,7 +251,7 @@
       "Sobek": 18,
       "Mesines": 28
     },
-    "hoursOffline": 3.6,
+    "hoursOffline": 3.8,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "centaur"
   },
@@ -379,7 +379,7 @@
       "Sobek": 401,
       "Mesines": 349
     },
-    "hoursOffline": 7.4,
+    "hoursOffline": 7.7,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "naga"
   },
@@ -507,7 +507,7 @@
       "Sobek": 37,
       "Mesines": 105
     },
-    "hoursOffline": 7.4,
+    "hoursOffline": 7.7,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "necromancer"
   },
@@ -635,7 +635,7 @@
       "Sobek": 39,
       "Mesines": 88
     },
-    "hoursOffline": 7.4,
+    "hoursOffline": 7.7,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "otherworldly_executioner"
   },
@@ -652,14 +652,14 @@
       "health": 96112281.42105627,
       "crafting": 97312654.3186264,
       "woodcutting": 35199868.39984512,
-      "carpentry": 35483199.64688492,
+      "carpentry": 35485679.64688492,
       "fishing": 36131081.76566601,
       "cooking": 72727950.06328964,
       "mining": 34484011.23642969,
       "smithing": 36292629.56392765,
       "foraging": 36477611.79559326,
       "farming": 52849185.03479004,
-      "agility": 39392351.60923004,
+      "agility": 39443129.60923004,
       "plundering": 91662569.0557251,
       "enchanting": 104671262.85351562,
       "brewing": 41350021.27722168,
@@ -763,7 +763,7 @@
       "Sobek": 41,
       "Mesines": 28
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -787,7 +787,7 @@
       "smithing": 19307776.196422577,
       "foraging": 24200314.98312378,
       "farming": 38486391.89979553,
-      "agility": 39752751.071128845,
+      "agility": 39798757.071128845,
       "plundering": 102283323.72976685,
       "enchanting": 39278175.439453125,
       "brewing": 22165123.172607422,
@@ -891,7 +891,7 @@
       "Sobek": 35,
       "Mesines": 5
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -915,7 +915,7 @@
       "smithing": 16892770.14156723,
       "foraging": 18967555.500751495,
       "farming": 38703876.07896423,
-      "agility": 39876708.38899231,
+      "agility": 39922194.38899231,
       "plundering": 108382621.83296204,
       "enchanting": 66587916.5144043,
       "brewing": 20120503.165893555,
@@ -1019,7 +1019,7 @@
       "Sobek": 48,
       "Mesines": 10
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "the_summit"
   },
@@ -1041,9 +1041,9 @@
       "cooking": 12495435.02839756,
       "mining": 10108048.926701069,
       "smithing": 7913220.252102971,
-      "foraging": 9083507.280003548,
+      "foraging": 9085003.280003548,
       "farming": 6809035.17956543,
-      "agility": 12491123.515514374,
+      "agility": 12529811.515514374,
       "plundering": 6513206.400802612,
       "enchanting": 20992671.299072266,
       "brewing": 13485346.461242676,
@@ -1147,7 +1147,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "rock_climbing"
   },
@@ -1159,9 +1159,9 @@
       "attack": 7635375.109621048,
       "strength": 8879767.813678741,
       "defence": 7294356.411318302,
-      "archery": 3271533.098991871,
+      "archery": 3294817.899016857,
       "magic": 3787691.002374649,
-      "health": 7899709.897128105,
+      "health": 7905531.097134352,
       "crafting": 4230681.702152252,
       "woodcutting": 6878437.623497009,
       "carpentry": 3660164.5162992477,
@@ -1170,7 +1170,7 @@
       "mining": 10127529.894537926,
       "smithing": 2193101.100582123,
       "foraging": 7448380.531855583,
-      "farming": 2927284.997192383,
+      "farming": 2929484.997192383,
       "agility": 5912406.110214233,
       "plundering": 2686194.594848633,
       "enchanting": 18288604.69921875,
@@ -1274,7 +1274,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "black_dragon"
   },
@@ -1286,15 +1286,15 @@
       "attack": 6094659.001443267,
       "strength": 9090580.99851644,
       "defence": 7012719.504124045,
-      "archery": 3346350.6002030373,
+      "archery": 3369659.4002346992,
       "magic": 3599152.102276325,
-      "health": 7378381.002703428,
+      "health": 7384208.202711344,
       "crafting": 4388063.398925781,
       "woodcutting": 6182101.423739433,
       "carpentry": 2853163.8073778152,
       "fishing": 6875795.234921455,
-      "cooking": 7070405.5259075165,
-      "mining": 11486729.776771545,
+      "cooking": 7074725.5259075165,
+      "mining": 11487641.776771545,
       "smithing": 2348298.799987793,
       "foraging": 7058648.013484955,
       "farming": 1147452.998413086,
@@ -1401,7 +1401,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "black_dragon"
   },
@@ -1427,8 +1427,8 @@
       "farming": 36393621.905937195,
       "agility": 34229669.531749725,
       "plundering": 34228092.45300293,
-      "enchanting": 63095815.99121094,
-      "brewing": 32025853.24416542,
+      "enchanting": 63102655.99121094,
+      "brewing": 32144738.241724014,
       "exterminating": 28476703.380934715
     },
     "equipment": {
@@ -1529,7 +1529,7 @@
       "Sobek": 0,
       "Mesines": 6
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 15,
     "taskNameOnLogout": "dragonfire_potion"
   },
@@ -1541,14 +1541,14 @@
       "attack": 89573090.65817237,
       "strength": 88732322.56165433,
       "defence": 90551019.8954103,
-      "archery": 69495393.77428055,
+      "archery": 69534657.77428055,
       "magic": 95267272.44042635,
-      "health": 107773744.38823092,
+      "health": 107783560.38823092,
       "crafting": 53278169.79376888,
       "woodcutting": 93496562.94237518,
       "carpentry": 35696750.7231164,
       "fishing": 60804682.76465416,
-      "cooking": 136650318.83950996,
+      "cooking": 136652240.83950996,
       "mining": 99532823.73287773,
       "smithing": 89407778.66276932,
       "foraging": 90811733.9336586,
@@ -1557,7 +1557,7 @@
       "plundering": 157905780.1147461,
       "enchanting": 92336893.38183594,
       "brewing": 53880858.44091797,
-      "exterminating": 32658986.59928131
+      "exterminating": 32664266.59928131
     },
     "equipment": {
       "boots": 838,
@@ -1657,7 +1657,7 @@
       "Sobek": 27,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "grimwark"
   },
@@ -1779,7 +1779,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 1.4,
+    "hoursOffline": 1.7,
     "taskTypeOnLogout": 13,
     "taskNameOnLogout": "ancient_tribe"
   },
@@ -1907,7 +1907,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 6.4,
+    "hoursOffline": 6.6,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "dark_wizard"
   },
@@ -2034,7 +2034,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 7.5,
+    "hoursOffline": 7.7,
     "taskTypeOnLogout": 12,
     "taskNameOnLogout": "basic_obstacle_course"
   },
@@ -2162,7 +2162,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.5,
+    "hoursOffline": 0.7,
     "taskTypeOnLogout": 3,
     "taskNameOnLogout": "titanium_ore"
   },
@@ -2286,7 +2286,7 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 1.6,
+    "hoursOffline": 1.9,
     "taskTypeOnLogout": 7,
     "taskNameOnLogout": "dire_wolf"
   },
@@ -2296,21 +2296,21 @@
     "guildName": "EndGameCrusade",
     "skillExperiences": {
       "attack": 624880.3998656273,
-      "strength": 794119.9008975029,
+      "strength": 982913.5009055138,
       "defence": 7739240.902984619,
       "archery": 1199809.897655964,
       "magic": 7955695.015724897,
-      "health": 4400191.002392054,
+      "health": 4447389.402394056,
       "crafting": 1405715.2980575562,
       "woodcutting": 1741792.4043792486,
       "carpentry": 1571975.3049468994,
       "fishing": 2749782.478740692,
-      "cooking": 7540028.176520348,
+      "cooking": 7670387.776511192,
       "mining": 4447926.476752043,
       "smithing": 2412091.699033141,
       "foraging": 4016142.3212680817,
       "farming": 2270919.312774658,
-      "agility": 2056836.2093048096,
+      "agility": 2148546.2093048096,
       "plundering": 2115869.190219879,
       "enchanting": 2286216.19921875,
       "brewing": 1836566.2978515625,
@@ -2331,28 +2331,28 @@
       "bracelet": 419,
       "belt": 560,
       "pet": 750,
-      "earrings": 377
+      "earrings": 424
     },
     "enchantmentBoosts": {
-      "farming": 3,
-      "fishing": 3,
-      "mining": 3,
+      "farming": 6,
+      "fishing": 6,
+      "mining": 6,
       "smithing": 3,
       "foraging": 3,
-      "plundering": 3,
-      "agility": 3,
+      "plundering": 6,
+      "agility": 6,
       "woodcutting": 3,
       "crafting": 3,
-      "attack": 3,
+      "attack": 6,
       "defence": 3,
-      "strength": 1.5,
-      "magic": 3,
-      "carpentry": 3,
+      "strength": 4.5,
+      "magic": 6,
+      "carpentry": 6,
       "enchanting": 3,
-      "cooking": 1.5,
-      "brewing": 1.5,
-      "archery": 3,
-      "exterminating": 3
+      "cooking": 4.5,
+      "brewing": 4.5,
+      "archery": 6,
+      "exterminating": 6
     },
     "upgrades": {
       "housing": 2,
@@ -2414,25 +2414,25 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 12.3,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 7,
-    "taskNameOnLogout": "fox"
+    "taskNameOnLogout": "orange_dragon"
   },
   "Poopboy": {
     "username": "Poopboy",
     "gameMode": "default",
     "guildName": "EndGameCrusade",
     "skillExperiences": {
-      "attack": 478570.1989889145,
-      "strength": 478570.1989889145,
-      "defence": 479196.69899463654,
+      "attack": 481918.298964262,
+      "strength": 481918.298964262,
+      "defence": 482544.79896998405,
       "archery": 613.5,
       "magic": 276614.19967746735,
-      "health": 425543.2011163235,
+      "health": 428053.5011062622,
       "crafting": 581841.3994903564,
       "woodcutting": 227169.20033168793,
       "carpentry": 3158431.1128692627,
-      "fishing": 1292926.4006252289,
+      "fishing": 1293961.4006252289,
       "cooking": 1339549.3114318848,
       "mining": 1432692.6933326721,
       "smithing": 737026.2007026672,
@@ -2442,7 +2442,7 @@
       "plundering": 162499.19764709473,
       "enchanting": 2334996,
       "brewing": 93688.20050048828,
-      "exterminating": 26261.79999923706
+      "exterminating": 27049.79999923706
     },
     "equipment": {
       "boots": 235,
@@ -2542,8 +2542,8 @@
       "Sobek": 0,
       "Mesines": 0
     },
-    "hoursOffline": 0.1,
+    "hoursOffline": 0,
     "taskTypeOnLogout": 7,
-    "taskNameOnLogout": "goblin"
+    "taskNameOnLogout": "bear"
   }
 }
