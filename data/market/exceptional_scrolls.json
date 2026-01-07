@@ -2,7 +2,7 @@
   {
     "id": 365,
     "name": "exceptional_scroll_of_woodcutting",
-    "lowestSellPrice": 1215507
+    "lowestSellPrice": 1348000
   },
   {
     "id": 366,
@@ -62,7 +62,7 @@
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1199999
+    "lowestSellPrice": 1200000
   },
   {
     "id": 448,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 18999998
+    "lowestSellPrice": 18997999
   }
 ]
