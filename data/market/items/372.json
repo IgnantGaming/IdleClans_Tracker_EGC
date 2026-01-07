@@ -36,6 +36,10 @@
   ],
   "highestBuyPricesWithVolume": [
     {
+      "key": 850000,
+      "value": 2
+    },
+    {
       "key": 820000,
       "value": 2
     },
