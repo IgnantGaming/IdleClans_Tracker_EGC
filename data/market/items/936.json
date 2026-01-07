@@ -44,12 +44,12 @@
   ],
   "highestBuyPricesWithVolume": [
     {
-      "key": 16506000,
-      "value": 1
+      "key": 16506001,
+      "value": 2
     },
     {
-      "key": 16505001,
-      "value": 2
+      "key": 16506000,
+      "value": 1
     },
     {
       "key": 16502005,
@@ -84,8 +84,8 @@
       "value": 12
     }
   ],
-  "averagePrice1Day": 21207173,
-  "averagePrice7Days": 24830523,
-  "averagePrice30Days": 27873832,
-  "tradeVolume1Day": 33
+  "averagePrice1Day": 20828604,
+  "averagePrice7Days": 24846055,
+  "averagePrice30Days": 27866970,
+  "tradeVolume1Day": 30
 }

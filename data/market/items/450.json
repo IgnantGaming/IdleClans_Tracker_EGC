@@ -52,10 +52,6 @@
       "value": 2
     },
     {
-      "key": 850001,
-      "value": 4
-    },
-    {
       "key": 701000,
       "value": 2
     },
@@ -64,8 +60,8 @@
       "value": 53
     }
   ],
-  "averagePrice1Day": 1181249,
+  "averagePrice1Day": 1201388,
   "averagePrice7Days": 1185169,
   "averagePrice30Days": 1145942,
-  "tradeVolume1Day": 10
+  "tradeVolume1Day": 9
 }
