@@ -2,7 +2,7 @@
   {
     "id": 365,
     "name": "exceptional_scroll_of_woodcutting",
-    "lowestSellPrice": 1340096
+    "lowestSellPrice": 1348000
   },
   {
     "id": 366,
@@ -17,7 +17,7 @@
   {
     "id": 368,
     "name": "exceptional_scroll_of_mining",
-    "lowestSellPrice": 1300000
+    "lowestSellPrice": 1389998
   },
   {
     "id": 369,
@@ -37,7 +37,7 @@
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1677777
+    "lowestSellPrice": 1677776
   },
   {
     "id": 373,
@@ -47,17 +47,17 @@
   {
     "id": 380,
     "name": "exceptional_scroll_of_rigour",
-    "lowestSellPrice": 1299999
+    "lowestSellPrice": 1399999
   },
   {
     "id": 445,
     "name": "exceptional_scroll_of_strength",
-    "lowestSellPrice": 1590900
+    "lowestSellPrice": 1699988
   },
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 1900000
+    "lowestSellPrice": 2299999
   },
   {
     "id": 447,
@@ -67,12 +67,12 @@
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1400000
+    "lowestSellPrice": 1489999
   },
   {
     "id": 449,
     "name": "exceptional_scroll_of_carpentry",
-    "lowestSellPrice": 1336741
+    "lowestSellPrice": 1209435
   },
   {
     "id": 450,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 19169999
+    "lowestSellPrice": 19000000
   }
 ]
