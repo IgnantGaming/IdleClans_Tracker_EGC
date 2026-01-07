@@ -1,0 +1,348 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Idle Clans Tracker</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="sidebar">
+        <div class="brand">
+          <div class="brand-mark">IC</div>
+          <div class="brand-text">
+            <div class="brand-title">Idle Clans</div>
+            <div class="brand-subtitle">Tracker</div>
+          </div>
+        </div>
+        <nav class="nav">
+          <button class="nav-item active" data-view="overview">Overview</button>
+          <button class="nav-item" data-view="members">Members</button>
+          <button class="nav-item" data-view="logs">Clan Logs</button>
+          <button class="nav-item" data-view="gold">Gold Logs</button>
+          <button class="nav-item" data-view="player-logs">Player Logs</button>
+          <button class="nav-item" data-view="compare">Compare</button>
+          <button class="nav-item" data-view="market">Market</button>
+        </nav>
+        <div class="sidebar-footer">
+          <div class="sidebar-meta">
+            <div class="meta-label">Last Update</div>
+            <div class="meta-value" id="meta-updated">-</div>
+          </div>
+          <div class="sidebar-meta">
+            <div class="meta-label">Members</div>
+            <div class="meta-value" id="meta-members">-</div>
+          </div>
+        </div>
+      </aside>
+
+      <main class="main">
+        <header class="topbar">
+          <div class="clan-title">
+            <h1 id="clan-name">Idle Clans</h1>
+            <span id="clan-tag">-</span>
+          </div>
+          <div class="topbar-actions">
+            <button id="refresh-view" class="action-button">Reload Data</button>
+          </div>
+        </header>
+
+        <section class="overview-grid view active" data-view="overview">
+          <div class="card">
+            <div class="card-title">Clan Overview</div>
+            <div class="card-stats">
+              <div class="stat">
+                <div class="stat-label">Activity Score</div>
+                <div class="stat-value" id="stat-activity">-</div>
+              </div>
+              <div class="stat">
+                <div class="stat-label">Member Count</div>
+                <div class="stat-value" id="stat-members">-</div>
+              </div>
+              <div class="stat">
+                <div class="stat-label">Last Updated</div>
+                <div class="stat-value" id="stat-updated">-</div>
+              </div>
+              <div class="stat">
+                <div class="stat-label">Total Gold Donated</div>
+                <div class="stat-value" id="stat-gold-total">-</div>
+              </div>
+            </div>
+          </div>
+          <div class="card">
+            <div class="card-title">Notifications</div>
+            <div class="notification-list" id="notifications">No alerts.</div>
+          </div>
+          <div class="card">
+            <div class="card-title">Quick Filters</div>
+            <label class="field">
+              <span>Offline Threshold (hours)</span>
+              <input type="number" id="offline-threshold" min="0" step="0.5" />
+            </label>
+            <div class="hint">Used for offline alerts and member table coloring.</div>
+          </div>
+        </section>
+
+        <section class="view" data-view="members">
+          <div class="card">
+            <div class="card-title">Members</div>
+            <div class="table-wrap">
+              <table class="data-table" id="members-table">
+                <thead>
+                  <tr>
+                    <th>Member</th>
+                    <th>Rank</th>
+                    <th>Hours Offline</th>
+                    <th>Status</th>
+                    <th>Gold Donated (Week)</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" data-view="logs">
+          <div class="card">
+            <div class="card-title">Clan Logs</div>
+            <div class="filters">
+              <label class="field">
+                <span>Member</span>
+                <input type="text" id="filter-member" placeholder="Filter by member" />
+              </label>
+              <label class="field">
+                <span>Message</span>
+                <input type="text" id="filter-message" placeholder="Filter by message" />
+              </label>
+              <label class="field">
+                <span>Start</span>
+                <input type="datetime-local" id="filter-start" />
+              </label>
+              <label class="field">
+                <span>End</span>
+                <input type="datetime-local" id="filter-end" />
+              </label>
+              <button class="ghost-button" id="clear-log-filters">Clear</button>
+            </div>
+            <div class="table-wrap">
+              <table class="data-table" id="logs-table">
+                <thead>
+                  <tr>
+                    <th>Timestamp</th>
+                    <th>Member</th>
+                    <th>Message</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" data-view="gold">
+          <div class="card">
+            <div class="card-title">Gold Logs</div>
+            <div class="filters">
+              <label class="field">
+                <span>Week</span>
+                <select id="gold-week"></select>
+              </label>
+            </div>
+            <div class="table-wrap">
+              <table class="data-table" id="gold-table">
+                <thead>
+                  <tr>
+                    <th>Member</th>
+                    <th>Gold Donated</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" data-view="player-logs">
+          <div class="card">
+            <div class="card-title">Player Logs</div>
+            <div class="filters">
+              <label class="field">
+                <span>Player</span>
+                <select id="player-logs-select"></select>
+              </label>
+            </div>
+            <div class="table-wrap">
+              <table class="data-table" id="player-logs-table">
+                <thead>
+                  <tr>
+                    <th>Timestamp</th>
+                    <th>Type</th>
+                    <th>Item</th>
+                    <th>Amount</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" data-view="compare">
+          <div class="card">
+            <div class="card-title">Compare Players</div>
+            <div class="filters">
+              <label class="field">
+                <span>Player A</span>
+                <select id="compare-a"></select>
+              </label>
+              <label class="field">
+                <span>Player B</span>
+                <select id="compare-b"></select>
+              </label>
+            </div>
+            <div class="compare-summary">
+              <div class="compare-card">
+                <div class="compare-title">Player A Tiers</div>
+                <div id="compare-tier-a"></div>
+              </div>
+              <div class="compare-card">
+                <div class="compare-title">Player B Tiers</div>
+                <div id="compare-tier-b"></div>
+              </div>
+            </div>
+            <div class="table-wrap">
+              <table class="data-table" id="compare-table">
+                <thead>
+                  <tr>
+                    <th>Skill</th>
+                    <th>A Level</th>
+                    <th>A XP</th>
+                    <th>A %120</th>
+                    <th>B Level</th>
+                    <th>B XP</th>
+                    <th>B %120</th>
+                    <th>Leader</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" data-view="market">
+          <div class="card">
+            <div class="card-title">Exceptional Scrolls</div>
+            <div class="table-wrap">
+              <table class="data-table" id="market-table">
+                <thead>
+                  <tr>
+                    <th>Item</th>
+                    <th>Lowest Sell Price</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="modal" id="player-modal" aria-hidden="true">
+      <div class="modal-content">
+        <button class="modal-close" data-close="player-modal">Close</button>
+        <div class="modal-header">
+          <h2 id="player-modal-title">Player Details</h2>
+          <div id="player-modal-subtitle"></div>
+        </div>
+        <div class="modal-body">
+          <div class="player-grid" id="player-skill-grid"></div>
+          <div class="player-footer" id="player-summary"></div>
+          <div class="split-grid">
+            <div class="card">
+              <div class="card-title">Withdrawals</div>
+              <div class="table-wrap">
+                <table class="data-table" id="player-withdraw-table">
+                  <thead>
+                    <tr>
+                      <th>Item</th>
+                      <th>Latest</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-title">Deposits</div>
+              <div class="table-wrap">
+                <table class="data-table" id="player-deposit-table">
+                  <thead>
+                    <tr>
+                      <th>Item</th>
+                      <th>Latest</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="modal" id="market-modal" aria-hidden="true">
+      <div class="modal-content">
+        <button class="modal-close" data-close="market-modal">Close</button>
+        <div class="modal-header">
+          <h2 id="market-modal-title">Market Details</h2>
+        </div>
+        <div class="modal-body">
+          <div class="market-summary" id="market-summary"></div>
+          <div class="split-grid">
+            <div class="card">
+              <div class="card-title">Lowest Sell Prices</div>
+              <div class="table-wrap">
+                <table class="data-table" id="market-sell-table">
+                  <thead>
+                    <tr>
+                      <th>Price</th>
+                      <th>Volume</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+            <div class="card">
+              <div class="card-title">Highest Buy Prices</div>
+              <div class="table-wrap">
+                <table class="data-table" id="market-buy-table">
+                  <thead>
+                    <tr>
+                      <th>Price</th>
+                      <th>Volume</th>
+                    </tr>
+                  </thead>
+                  <tbody></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

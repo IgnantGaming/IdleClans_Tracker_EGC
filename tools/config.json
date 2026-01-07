@@ -1,0 +1,7 @@
+{
+  "clanName": "EndGameCrusade",
+  "logsSkip": 0,
+  "logsLimit": 500,
+  "rateLimitPerMinute": 15,
+  "gitCommitMessage": "Update data"
+}

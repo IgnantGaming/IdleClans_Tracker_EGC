@@ -1,0 +1,97 @@
+[
+  {
+    "id": 365,
+    "name": "exceptional_scroll_of_woodcutting",
+    "lowestSellPrice": 1320000
+  },
+  {
+    "id": 366,
+    "name": "exceptional_scroll_of_plundering",
+    "lowestSellPrice": 1334999
+  },
+  {
+    "id": 367,
+    "name": "exceptional_scroll_of_fishing",
+    "lowestSellPrice": 1360000
+  },
+  {
+    "id": 368,
+    "name": "exceptional_scroll_of_mining",
+    "lowestSellPrice": 1350000
+  },
+  {
+    "id": 369,
+    "name": "exceptional_scroll_of_smithing",
+    "lowestSellPrice": 1320112
+  },
+  {
+    "id": 370,
+    "name": "exceptional_scroll_of_foraging",
+    "lowestSellPrice": 1250000
+  },
+  {
+    "id": 371,
+    "name": "exceptional_scroll_of_farming",
+    "lowestSellPrice": 1249999
+  },
+  {
+    "id": 372,
+    "name": "exceptional_scroll_of_agility",
+    "lowestSellPrice": 1340101
+  },
+  {
+    "id": 373,
+    "name": "exceptional_scroll_of_crafting",
+    "lowestSellPrice": 1400000
+  },
+  {
+    "id": 380,
+    "name": "exceptional_scroll_of_rigour",
+    "lowestSellPrice": 1444999
+  },
+  {
+    "id": 445,
+    "name": "exceptional_scroll_of_strength",
+    "lowestSellPrice": 1499999
+  },
+  {
+    "id": 446,
+    "name": "exceptional_scroll_of_defence",
+    "lowestSellPrice": 1749999
+  },
+  {
+    "id": 447,
+    "name": "exceptional_scroll_of_magic",
+    "lowestSellPrice": 1400000
+  },
+  {
+    "id": 448,
+    "name": "exceptional_scroll_of_archery",
+    "lowestSellPrice": 1399994
+  },
+  {
+    "id": 449,
+    "name": "exceptional_scroll_of_carpentry",
+    "lowestSellPrice": 1091427
+  },
+  {
+    "id": 450,
+    "name": "exceptional_scroll_of_enchanting",
+    "lowestSellPrice": 1300000
+  },
+  {
+    "id": 451,
+    "name": "exceptional_scroll_of_brewing",
+    "lowestSellPrice": 1379999
+  },
+  {
+    "id": 549,
+    "name": "exceptional_scroll_of_cooking",
+    "lowestSellPrice": 1273387
+  },
+  {
+    "id": 936,
+    "name": "exceptional_scroll_of_exterminating",
+    "lowestSellPrice": 21998000
+  }
+]
