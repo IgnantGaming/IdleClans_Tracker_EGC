@@ -62,7 +62,7 @@
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1625000
+    "lowestSellPrice": 1600000
   },
   {
     "id": 448,
@@ -72,7 +72,7 @@
   {
     "id": 449,
     "name": "exceptional_scroll_of_carpentry",
-    "lowestSellPrice": 1347990
+    "lowestSellPrice": 1347998
   },
   {
     "id": 450,
@@ -82,12 +82,12 @@
   {
     "id": 451,
     "name": "exceptional_scroll_of_brewing",
-    "lowestSellPrice": 1350000
+    "lowestSellPrice": 1374999
   },
   {
     "id": 549,
     "name": "exceptional_scroll_of_cooking",
-    "lowestSellPrice": 1525000
+    "lowestSellPrice": 1500000
   },
   {
     "id": 936,
