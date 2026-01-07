@@ -2,6 +2,10 @@
   "itemId": 936,
   "lowestSellPricesWithVolume": [
     {
+      "key": 18956000,
+      "value": 1
+    },
+    {
       "key": 20000000,
       "value": 2
     },
@@ -36,10 +40,6 @@
     {
       "key": 23999999,
       "value": 1
-    },
-    {
-      "key": 24000000,
-      "value": 3
     }
   ],
   "highestBuyPricesWithVolume": [
