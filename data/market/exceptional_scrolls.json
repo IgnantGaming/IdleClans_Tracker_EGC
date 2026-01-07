@@ -47,17 +47,17 @@
   {
     "id": 380,
     "name": "exceptional_scroll_of_rigour",
-    "lowestSellPrice": 1336741
+    "lowestSellPrice": 1444998
   },
   {
     "id": 445,
     "name": "exceptional_scroll_of_strength",
-    "lowestSellPrice": 1399999
+    "lowestSellPrice": 1449999
   },
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 1750000
+    "lowestSellPrice": 1800000
   },
   {
     "id": 447,
@@ -67,12 +67,12 @@
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1399993
+    "lowestSellPrice": 1399997
   },
   {
     "id": 449,
     "name": "exceptional_scroll_of_carpentry",
-    "lowestSellPrice": 1250000
+    "lowestSellPrice": 1299999
   },
   {
     "id": 450,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 21000000
+    "lowestSellPrice": 21997000
   }
 ]
