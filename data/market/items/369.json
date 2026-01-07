@@ -18,6 +18,10 @@
       "value": 5
     },
     {
+      "key": 1399419,
+      "value": 4
+    },
+    {
       "key": 1399420,
       "value": 3
     },
@@ -34,15 +38,15 @@
       "value": 1
     },
     {
-      "key": 1498997,
-      "value": 4
-    },
-    {
       "key": 1498998,
       "value": 1
     }
   ],
   "highestBuyPricesWithVolume": [
+    {
+      "key": 1000000,
+      "value": 4
+    },
     {
       "key": 999999,
       "value": 2
