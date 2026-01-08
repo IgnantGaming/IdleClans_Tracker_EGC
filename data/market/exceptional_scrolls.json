@@ -2,7 +2,7 @@
   {
     "id": 365,
     "name": "exceptional_scroll_of_woodcutting",
-    "lowestSellPrice": 1699999
+    "lowestSellPrice": 1700000
   },
   {
     "id": 366,
@@ -12,7 +12,7 @@
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1500000
+    "lowestSellPrice": 1515151
   },
   {
     "id": 368,
@@ -22,7 +22,7 @@
   {
     "id": 369,
     "name": "exceptional_scroll_of_smithing",
-    "lowestSellPrice": 1396569
+    "lowestSellPrice": 1396570
   },
   {
     "id": 370,
@@ -37,17 +37,17 @@
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1650000
+    "lowestSellPrice": 1689000
   },
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1468453
+    "lowestSellPrice": 1469993
   },
   {
     "id": 380,
     "name": "exceptional_scroll_of_rigour",
-    "lowestSellPrice": 1339999
+    "lowestSellPrice": 1340000
   },
   {
     "id": 445,
@@ -57,7 +57,7 @@
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 2200000
+    "lowestSellPrice": 2239999
   },
   {
     "id": 447,
@@ -67,17 +67,17 @@
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1300000
+    "lowestSellPrice": 1400000
   },
   {
     "id": 449,
     "name": "exceptional_scroll_of_carpentry",
-    "lowestSellPrice": 1150000
+    "lowestSellPrice": 1336742
   },
   {
     "id": 450,
     "name": "exceptional_scroll_of_enchanting",
-    "lowestSellPrice": 1250000
+    "lowestSellPrice": 1390000
   },
   {
     "id": 451,
@@ -87,11 +87,11 @@
   {
     "id": 549,
     "name": "exceptional_scroll_of_cooking",
-    "lowestSellPrice": 1700000
+    "lowestSellPrice": 2065820
   },
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 18999999
+    "lowestSellPrice": 19171426
   }
 ]
