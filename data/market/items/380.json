@@ -2,6 +2,10 @@
   "itemId": 380,
   "lowestSellPricesWithVolume": [
     {
+      "key": 1339999,
+      "value": 3
+    },
+    {
       "key": 1340000,
       "value": 9
     },
@@ -12,10 +16,6 @@
     {
       "key": 1350000,
       "value": 2
-    },
-    {
-      "key": 1399999,
-      "value": 3
     },
     {
       "key": 1400000,
@@ -69,7 +69,7 @@
     }
   ],
   "averagePrice1Day": 1289509,
-  "averagePrice7Days": 1282319,
+  "averagePrice7Days": 1283518,
   "averagePrice30Days": 1356606,
   "tradeVolume1Day": 32
 }
