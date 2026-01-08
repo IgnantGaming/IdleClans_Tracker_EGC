@@ -42,7 +42,7 @@
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1200000
+    "lowestSellPrice": 1469994
   },
   {
     "id": 380,
@@ -57,7 +57,7 @@
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 2000000
+    "lowestSellPrice": 2239999
   },
   {
     "id": 447,
@@ -82,7 +82,7 @@
   {
     "id": 451,
     "name": "exceptional_scroll_of_brewing",
-    "lowestSellPrice": 1366666
+    "lowestSellPrice": 1350000
   },
   {
     "id": 549,
@@ -92,6 +92,6 @@
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 18000000
+    "lowestSellPrice": 17999999
   }
 ]
