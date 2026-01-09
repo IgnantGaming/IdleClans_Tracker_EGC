@@ -1,0 +1,11 @@
+[Unit]
+Description=Update Idle Clans WebApp data
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+User=pi
+Environment=HOME=/home/pi
+WorkingDirectory=/home/pi/EndGameCrusade/WebApp
+ExecStart=/home/pi/EndGameCrusade/WebApp/tools/run-update.sh

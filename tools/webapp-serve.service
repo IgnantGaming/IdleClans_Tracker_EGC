@@ -1,0 +1,14 @@
+[Unit]
+Description=Serve Idle Clans WebApp locally
+After=network.target
+
+[Service]
+Type=simple
+User=ignant
+Environment=HOME=/home/ignant
+WorkingDirectory=/home/ignant/IdleClans/WebApp
+ExecStart=/usr/bin/python3 -m http.server --directory /home/ignant/IdleClans/WebApp 8000
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target

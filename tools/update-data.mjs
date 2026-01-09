@@ -180,7 +180,11 @@ function formatIsoNow() {
 }
 
 function runGit(args, options = {}) {
-  return execSync(`git ${args}`, { stdio: "pipe", ...options }).toString("utf8").trim();
+  return execSync(`git ${args}`, {
+    stdio: "pipe",
+    cwd: ROOT_DIR,
+    ...options
+  }).toString("utf8").trim();
 }
 
 async function gitCommitAndPush(message) {
@@ -190,7 +194,7 @@ async function gitCommitAndPush(message) {
     console.warn("Not inside a git repository. Skipping git commit/push.");
     return;
   }
-  runGit("add WebApp/data");
+  runGit("add data");
   const status = runGit("status --porcelain");
   if (!status) {
     console.log("No data changes to commit.");
