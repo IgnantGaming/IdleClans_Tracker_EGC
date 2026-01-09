@@ -1,6 +1,293 @@
 [
   {
     "clanName": "EndGameCrusade",
+    "memberUsername": "IgnantGaming",
+    "message": "IgnantGaming added 1x Exceptional enchantment scroll (foraging).",
+    "timestamp": "2026-01-09T00:19:21.101Z",
+    "messageHash": "a96ee2b7b5bb1c9e299f6862ab3e54cd6b55f3485b46d040e154fc33cf60befd"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "ignantgaming2",
+    "message": "ignantgaming2 added 1x Exceptional enchantment scroll (crafting).",
+    "timestamp": "2026-01-09T00:19:08.514Z",
+    "messageHash": "24346455759a5280f446c4a7da95a0e37c6ebefa4e4e71150fde62cc83a3a221"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "IgnantGaming",
+    "message": "IgnantGaming withdrew 1x Exceptional enchantment scroll (defence).",
+    "timestamp": "2026-01-09T00:16:36.399Z",
+    "messageHash": "61658b30146e01fd0ffd192fe65cbda38f022fa9a54629fb0ee01d2ae3d2815a"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "ignantgaming2",
+    "message": "ignantgaming2 withdrew 1x Exceptional enchantment scroll (defence).",
+    "timestamp": "2026-01-09T00:16:20.57Z",
+    "messageHash": "bbb6a6d1ccc748a04a24318b33a57927d9236a78b01f3cd70c6a55bf4bb68a9b"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "GodTierTevo",
+    "message": "GodTierTevo added 1x Otherworldly lockpicks.",
+    "timestamp": "2026-01-09T00:11:51.095Z",
+    "messageHash": "867b835df2b4588b9e90288c987c03d5e52d59fdfd54fe6ba00f8c7035587c83"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "xelsol",
+    "message": "xelsol added 1x Normal saw.",
+    "timestamp": "2026-01-08T20:35:26.164Z",
+    "messageHash": "7e5587f7ebc5d80813059c4528f9a2416f311e2a3db07b35be346726048cadf5"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris",
+    "message": "JupiterSolaris withdrew 1x Dragon slayer's crossbow.",
+    "timestamp": "2026-01-08T17:11:04.697Z",
+    "messageHash": "b6f77252f9a5cbce34295f72c659f5a6dfd1cb8daf3b89e8ced0f8a8b264e2aa"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Poopboy",
+    "message": "Poopboy withdrew 1x Outstanding hammer.",
+    "timestamp": "2026-01-08T15:38:14.948Z",
+    "messageHash": "ed39629a667eee9589293f902c649be6f5b6154f043cce5596e94a1bc15ba304"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Poopboy",
+    "message": "Poopboy added 1x Outstanding saw.",
+    "timestamp": "2026-01-08T15:37:50.089Z",
+    "messageHash": "ebade1268bfde241d94e7608cdf0e35582c52f4b55772265037112ec47363b71"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris",
+    "message": "JupiterSolaris added 1x Treasure hunter gloves.",
+    "timestamp": "2026-01-08T13:53:44.744Z",
+    "messageHash": "c11e8d0423390f6e7574a8921da9349f8db5a5b191815e90f0728d11a0bfeae7"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris",
+    "message": "JupiterSolaris added 1x Chef's hat.",
+    "timestamp": "2026-01-08T13:53:42.425Z",
+    "messageHash": "37548a05669429d2b356227988ca58bee04905ced69663f1d37a96ed225b2a72"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "xelsol",
+    "message": "xelsol completed a skilling quest!",
+    "timestamp": "2026-01-08T09:06:07.791Z",
+    "messageHash": "fb9a134764813dcc4518233a69b1f100c62721f4f8aa11ae18b4851577fb9af4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "xelsol",
+    "message": "xelsol completed a skilling quest!",
+    "timestamp": "2026-01-08T09:05:59.744Z",
+    "messageHash": "fb9a134764813dcc4518233a69b1f100c62721f4f8aa11ae18b4851577fb9af4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Elli",
+    "message": "Elli withdrew 456x Redwood log.",
+    "timestamp": "2026-01-08T05:00:21.722Z",
+    "messageHash": "506780727f12d1d98d9267d3379e68a0094c412d4f804da07891724e85990837"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Elli",
+    "message": "Elli added 305x Redwood log.",
+    "timestamp": "2026-01-08T05:00:01.616Z",
+    "messageHash": "13546490d884cf829fcacca2beb6ed5f8e175ee3b65776f08b7e980ad7255255"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Omgnoob",
+    "message": "Omgnoob has started a Gathering event with 1 participant.",
+    "timestamp": "2026-01-08T03:06:03.781Z",
+    "messageHash": "dbc867d624f9e7bf9a5b0c1557f2520b4093c8423096bbc63ec14a255e327601"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Omgnoob",
+    "message": "Omgnoob has started a Gathering event with 1 participant.",
+    "timestamp": "2026-01-08T03:04:36.774Z",
+    "messageHash": "dbc867d624f9e7bf9a5b0c1557f2520b4093c8423096bbc63ec14a255e327601"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Omgnoob",
+    "message": "Omgnoob has started a Gathering event with 1 participant.",
+    "timestamp": "2026-01-08T03:03:09.769Z",
+    "messageHash": "dbc867d624f9e7bf9a5b0c1557f2520b4093c8423096bbc63ec14a255e327601"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Omgnoob",
+    "message": "Omgnoob has started a Gathering event with 1 participant.",
+    "timestamp": "2026-01-08T03:01:42.762Z",
+    "messageHash": "dbc867d624f9e7bf9a5b0c1557f2520b4093c8423096bbc63ec14a255e327601"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Omgnoob",
+    "message": "Omgnoob has started a Gathering event with 1 participant.",
+    "timestamp": "2026-01-08T03:00:15.742Z",
+    "messageHash": "dbc867d624f9e7bf9a5b0c1557f2520b4093c8423096bbc63ec14a255e327601"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "Omgnoob",
+    "message": "Omgnoob has started a Gathering event with 1 participant.",
+    "timestamp": "2026-01-08T02:58:48.717Z",
+    "messageHash": "dbc867d624f9e7bf9a5b0c1557f2520b4093c8423096bbc63ec14a255e327601"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "FlyingWV",
+    "message": "FlyingWV has started a SkillingParty event with 19 participant.",
+    "timestamp": "2026-01-08T02:54:56.047Z",
+    "messageHash": "dca3ba7e0696cc9154d286757e2ad6aabeb2c8acb99b6bc356cd8d5e6a5e6eb6"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "FlyingWV",
+    "message": "FlyingWV has started a SkillingParty event with 20 participant.",
+    "timestamp": "2026-01-08T02:50:10.68Z",
+    "messageHash": "308ba2ffc808eb7c24b99873b3277a8f8f299393e7b579baf49a4375b5feb58a"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Crafting event with 19 participant.",
+    "timestamp": "2026-01-08T02:46:03.618Z",
+    "messageHash": "678d93db3400e9a0f9a449c5f0c63254d10f94ada65b5e5a3117caf2d68b114f"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Crafting event with 19 participant.",
+    "timestamp": "2026-01-08T02:44:03.619Z",
+    "messageHash": "678d93db3400e9a0f9a449c5f0c63254d10f94ada65b5e5a3117caf2d68b114f"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Crafting event with 19 participant.",
+    "timestamp": "2026-01-08T02:42:03.606Z",
+    "messageHash": "678d93db3400e9a0f9a449c5f0c63254d10f94ada65b5e5a3117caf2d68b114f"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "FlyingWV",
+    "message": "FlyingWV has started a Crafting event with 19 participant.",
+    "timestamp": "2026-01-08T02:40:03.606Z",
+    "messageHash": "0e373254385c91bd14794b8ff07e8fab5eaaad815e7f9da5ad958b08c7d3ae6c"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Gathering event with 19 participant.",
+    "timestamp": "2026-01-08T02:35:08.201Z",
+    "messageHash": "c60f95e66dcf3daa9a5409a4257b596455e8705f213e5ac35b5e5e1e3520aaf4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Gathering event with 19 participant.",
+    "timestamp": "2026-01-08T02:33:08.186Z",
+    "messageHash": "c60f95e66dcf3daa9a5409a4257b596455e8705f213e5ac35b5e5e1e3520aaf4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Gathering event with 19 participant.",
+    "timestamp": "2026-01-08T02:31:08.179Z",
+    "messageHash": "c60f95e66dcf3daa9a5409a4257b596455e8705f213e5ac35b5e5e1e3520aaf4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Gathering event with 19 participant.",
+    "timestamp": "2026-01-08T02:29:08.186Z",
+    "messageHash": "c60f95e66dcf3daa9a5409a4257b596455e8705f213e5ac35b5e5e1e3520aaf4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "SlickRic",
+    "message": "SlickRic has started a Gathering event with 19 participant.",
+    "timestamp": "2026-01-08T02:27:08.173Z",
+    "messageHash": "c60f95e66dcf3daa9a5409a4257b596455e8705f213e5ac35b5e5e1e3520aaf4"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "FlyingWV",
+    "message": "FlyingWV has started a Gathering event with 19 participant.",
+    "timestamp": "2026-01-08T02:25:08.181Z",
+    "messageHash": "9090b83f3df4e43e72bbb65c46ad9b5120c43aa2e5b57d2b0f516267fa47ec23"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "B00P",
+    "message": "B00P added 227x Leather.",
+    "timestamp": "2026-01-08T02:24:39.096Z",
+    "messageHash": "30edc1a3fa41aa8b65dad5436807277abd424b00519b7e17dee776242647d841"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "B00P",
+    "message": "B00P added 1x Abyssal maul.",
+    "timestamp": "2026-01-08T02:23:37.866Z",
+    "messageHash": "add5341df8ffa66c5d493aeffcef6d828b80ec2e58015814daa4037fe659f568"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "NovaSouls",
+    "message": "NovaSouls has started a CombatBigLootDaily event with 19 participant.",
+    "timestamp": "2026-01-08T02:16:57.863Z",
+    "messageHash": "d4e53a187d2aee83c41b3a669c81038555412a6893865d28b7d101a029b98062"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris",
+    "message": "JupiterSolaris has started a CombatBigLootDaily event with 19 participant.",
+    "timestamp": "2026-01-08T02:11:36.411Z",
+    "messageHash": "ce1983d7d53881e05ea5ad807e38191065598bd8870d944a10d146f4fc499107"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiteSolaris3",
+    "message": "JupiteSolaris3 has started a CombatBigExpDaily event with 20 participant.",
+    "timestamp": "2026-01-08T02:01:44.182Z",
+    "messageHash": "e790ea9f4e9fb2e0bb9f4b266607d0345fde4a0c040ddbf1d4f20ca8eccafcf0"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "B00P",
+    "message": "B00P withdrew 1x Abyssal maul.",
+    "timestamp": "2026-01-08T01:56:40.66Z",
+    "messageHash": "e2c23ea454fc83bd2be931e85bb99e8bb025a6a21e7bd6a72db334173c918178"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "NovaSouls",
+    "message": "NovaSouls has started a CombatBigExpDaily event with 20 participant.",
+    "timestamp": "2026-01-08T01:56:22.766Z",
+    "messageHash": "931b20b9b627fddd7de8860590abbd22fc396bc41b7f065e014a1428ebc85d60"
+  },
+  {
+    "clanName": "EndGameCrusade",
+    "memberUsername": "JupiterSolaris",
+    "message": "JupiterSolaris added 1x Normal fishing rod.",
+    "timestamp": "2026-01-08T01:33:06.624Z",
+    "messageHash": "547ae9e911931097a956cc64588e0fbcddf3375170531c65b657fff78fe7b60c"
+  },
+  {
+    "clanName": "EndGameCrusade",
     "memberUsername": "JupiteSolaris3",
     "message": "JupiteSolaris3 added 1x Exceptional enchantment scroll (fishing).",
     "timestamp": "2026-01-08T00:18:05.228Z",

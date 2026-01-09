@@ -2,96 +2,96 @@
   {
     "id": 365,
     "name": "exceptional_scroll_of_woodcutting",
-    "lowestSellPrice": 1700000
+    "lowestSellPrice": 1699996
   },
   {
     "id": 366,
     "name": "exceptional_scroll_of_plundering",
-    "lowestSellPrice": 1333333
+    "lowestSellPrice": 1478000
   },
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1515151
+    "lowestSellPrice": 1350000
   },
   {
     "id": 368,
     "name": "exceptional_scroll_of_mining",
-    "lowestSellPrice": 1389999
+    "lowestSellPrice": 1246500
   },
   {
     "id": 369,
     "name": "exceptional_scroll_of_smithing",
-    "lowestSellPrice": 1396570
+    "lowestSellPrice": 1380000
   },
   {
     "id": 370,
     "name": "exceptional_scroll_of_foraging",
-    "lowestSellPrice": 1587999
+    "lowestSellPrice": 1499997
   },
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1499998
+    "lowestSellPrice": 1450000
   },
   {
     "id": 372,
     "name": "exceptional_scroll_of_agility",
-    "lowestSellPrice": 1689000
+    "lowestSellPrice": 1699997
   },
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1469993
+    "lowestSellPrice": 1449999
   },
   {
     "id": 380,
     "name": "exceptional_scroll_of_rigour",
-    "lowestSellPrice": 1340000
+    "lowestSellPrice": 1250000
   },
   {
     "id": 445,
     "name": "exceptional_scroll_of_strength",
-    "lowestSellPrice": 1600000
+    "lowestSellPrice": 1400000
   },
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 2239999
+    "lowestSellPrice": 1695000
   },
   {
     "id": 447,
     "name": "exceptional_scroll_of_magic",
-    "lowestSellPrice": 1599996
+    "lowestSellPrice": 1300000
   },
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1400000
+    "lowestSellPrice": 1449999
   },
   {
     "id": 449,
     "name": "exceptional_scroll_of_carpentry",
-    "lowestSellPrice": 1336742
+    "lowestSellPrice": 1850603
   },
   {
     "id": 450,
     "name": "exceptional_scroll_of_enchanting",
-    "lowestSellPrice": 1390000
+    "lowestSellPrice": 1379999
   },
   {
     "id": 451,
     "name": "exceptional_scroll_of_brewing",
-    "lowestSellPrice": 1366666
+    "lowestSellPrice": 1374999
   },
   {
     "id": 549,
     "name": "exceptional_scroll_of_cooking",
-    "lowestSellPrice": 2065820
+    "lowestSellPrice": 1628892
   },
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 19171426
+    "lowestSellPrice": 18968964
   }
 ]
