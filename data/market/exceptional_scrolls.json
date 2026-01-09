@@ -2,27 +2,27 @@
   {
     "id": 365,
     "name": "exceptional_scroll_of_woodcutting",
-    "lowestSellPrice": 1699996
+    "lowestSellPrice": 1600000
   },
   {
     "id": 366,
     "name": "exceptional_scroll_of_plundering",
-    "lowestSellPrice": 1478000
+    "lowestSellPrice": 1500000
   },
   {
     "id": 367,
     "name": "exceptional_scroll_of_fishing",
-    "lowestSellPrice": 1350000
+    "lowestSellPrice": 1688555
   },
   {
     "id": 368,
     "name": "exceptional_scroll_of_mining",
-    "lowestSellPrice": 1246500
+    "lowestSellPrice": 1308825
   },
   {
     "id": 369,
     "name": "exceptional_scroll_of_smithing",
-    "lowestSellPrice": 1380000
+    "lowestSellPrice": 1399888
   },
   {
     "id": 370,
@@ -32,7 +32,7 @@
   {
     "id": 371,
     "name": "exceptional_scroll_of_farming",
-    "lowestSellPrice": 1450000
+    "lowestSellPrice": 1300000
   },
   {
     "id": 372,
@@ -42,22 +42,22 @@
   {
     "id": 373,
     "name": "exceptional_scroll_of_crafting",
-    "lowestSellPrice": 1449999
+    "lowestSellPrice": 1336745
   },
   {
     "id": 380,
     "name": "exceptional_scroll_of_rigour",
-    "lowestSellPrice": 1250000
+    "lowestSellPrice": 1295000
   },
   {
     "id": 445,
     "name": "exceptional_scroll_of_strength",
-    "lowestSellPrice": 1400000
+    "lowestSellPrice": 1600000
   },
   {
     "id": 446,
     "name": "exceptional_scroll_of_defence",
-    "lowestSellPrice": 1695000
+    "lowestSellPrice": 2239999
   },
   {
     "id": 447,
@@ -67,17 +67,17 @@
   {
     "id": 448,
     "name": "exceptional_scroll_of_archery",
-    "lowestSellPrice": 1449999
+    "lowestSellPrice": 1450000
   },
   {
     "id": 449,
     "name": "exceptional_scroll_of_carpentry",
-    "lowestSellPrice": 1850603
+    "lowestSellPrice": 1850605
   },
   {
     "id": 450,
     "name": "exceptional_scroll_of_enchanting",
-    "lowestSellPrice": 1379999
+    "lowestSellPrice": 1397999
   },
   {
     "id": 451,
@@ -87,11 +87,11 @@
   {
     "id": 549,
     "name": "exceptional_scroll_of_cooking",
-    "lowestSellPrice": 1628892
+    "lowestSellPrice": 1500000
   },
   {
     "id": 936,
     "name": "exceptional_scroll_of_exterminating",
-    "lowestSellPrice": 18968964
+    "lowestSellPrice": 20000000
   }
 ]

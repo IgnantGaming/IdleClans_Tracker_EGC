@@ -3,11 +3,11 @@
   "lowestSellPricesWithVolume": [
     {
       "key": 1300000,
-      "value": 3
+      "value": 2
     },
     {
       "key": 1400000,
-      "value": 2
+      "value": 1
     },
     {
       "key": 1403575,
@@ -56,8 +56,8 @@
       "value": 20
     }
   ],
-  "averagePrice1Day": 1342555,
-  "averagePrice7Days": 1368375,
-  "averagePrice30Days": 1299022,
+  "averagePrice1Day": 1279637,
+  "averagePrice7Days": 1362973,
+  "averagePrice30Days": 1296384,
   "tradeVolume1Day": 20
 }
